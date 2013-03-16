@@ -8,3 +8,5 @@ przykladowy link
 * element2.
 
 ![planeta](http://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Mars.jpg/160px-Mars.jpg)
+
+adsfsdfgsdghf
